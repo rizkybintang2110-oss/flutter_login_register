@@ -534,10 +534,10 @@ Map<String, Map<String, String>> userData = {
 ![HalamanLogin](image/01.png)
 
 #### *5.2* animasi sederhana
-![HalamanLogin](image/04.png)
+![HalamanLogin](image/05.png)
 
 
 #### *5.3* simpan sesi login
-![HalamanLogin](image/05.png)
+![HalamanLogin](image/06.png)
 
 
