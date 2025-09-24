@@ -521,3 +521,12 @@ Map<String, Map<String, String>> userData = {
 #### *4.1* halaman login
 ![HalamanLogin](image/01.png)
 
+#### *4.2* halaman registrasi
+![HalamanLogin](image/02.png)
+
+#### *4.3* halaman home
+![HalamanLogin](image/03.png)
+
+### *5* validasi input
+![HalamanLogin](image/04.png)
+
