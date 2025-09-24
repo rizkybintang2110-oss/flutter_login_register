@@ -525,8 +525,19 @@ Map<String, Map<String, String>> userData = {
 ![HalamanLogin](image/02.png)
 
 #### *4.3* halaman home
-![HalamanLogin](image/03.png)
+![HalamanLogin](image/06.png)
 
 ### *5* validasi input
+![HalamanLogin](image/03.png)
+
+#### *5.1* Menampilkan/Menyebunyikan Password
+![HalamanLogin](image/01.png)
+
+#### *5.2* animasi sederhana
 ![HalamanLogin](image/04.png)
+
+
+#### *5.3* simpan sesi login
+![HalamanLogin](image/05.png)
+
 
